@@ -114,67 +114,7 @@ Així una pàgina pot sortir la primera si l'usuari fa una cerca amb unes paraul
 
 ![image](https://github.com/user-attachments/assets/1faeec1b-ae30-4a24-9782-c3426bd48a01)
 
-1. Definició
 
-Programari accessible mitjançant un navegador web.
-
-Funciona sobre una arquitectura client-servidor.
-
-No requereix instal·lació local (només connexió a Internet i navegador).
-
-2. Arquitectura
-
-Client (frontend)
-
-Interfície d’usuari.
-
-Tecnologies: HTML, CSS, JavaScript, frameworks (React, Angular, Vue).
-
-Servidor (backend)
-
-Lògica de negoci i gestió de dades.
-
-Tecnologies: Node.js, PHP, Python (Django, Flask), Java (Spring), .NET.
-
-Base de dades
-
-Emmagatzematge d’informació.
-
-Tipus: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis).
-
-3. Tipologies
-
-Aplicacions informatives (portals, blogs, notícies).
-
-Aplicacions transaccionals (comerç electrònic, reserves online).
-
-Aplicacions col·laboratives (xarxes socials, wikis, gestió de projectes).
-
-Aplicacions productives (ofimàtica al núvol, CRM, ERP).
-
-Aplicacions multimèdia (streaming, plataformes de vídeo i música).
-
-4. Característiques
-
-Accessibilitat des de qualsevol dispositiu amb Internet.
-
-Multiplataforma i multiplataforma.
-
-Actualitzacions centralitzades (no cal reinstal·lar).
-
-Escalabilitat i integració amb altres serveis.
-
-Depenen de la connectivitat i del rendiment del servidor.
-
-5. Tecnologies complementàries
-
-APIs i serveis web (REST, GraphQL, SOAP).
-
-Autenticació i seguretat (OAuth, JWT, HTTPS, xifratge).
-
-Cloud i contenidors (AWS, Azure, Docker, Kubernetes).
-
-DevOps i desplegament continu (CI/CD, GitHub Actions, Jenkins).
 
 
 
