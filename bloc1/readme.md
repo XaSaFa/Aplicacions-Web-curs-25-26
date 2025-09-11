@@ -11,7 +11,5 @@
 
 ### Activitats
 
-- Activitat 1 - Activitat de SEO.
-- [Activitat 2 - Correu electrònic](activitat_mail.md)
-- [Activitat 3 - Investigació sobre eines web](activitat3.md)
+
 
