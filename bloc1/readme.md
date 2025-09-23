@@ -7,6 +7,8 @@
 - [Introducció a les aplicacions web](intro.md)
 - [Aplicacions organitzatives](organitzacio.md)
 - [Correu electrònic](correu.md)
+- [ISARD - Sistema per a crear màquines virtuals](isard.md)
+- [Etherpad - Editor de text col·laboratiu](etherpad.md)
 
 ### Activitats
 
