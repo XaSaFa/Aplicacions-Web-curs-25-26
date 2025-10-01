@@ -4,7 +4,7 @@
 
 Isard és un sistema que ens permet crear i accedir a màquines virtuals (MVs) mitjançant una pestanya de navegador.
 
-La pàgina d'accés a ISARD és [ja.cat/isard.vdi](https://ja.cat/isard.vdi).
+La pàgina d'accés a ISARD és [ja.cat/isardvdi](https://ja.cat/isardvdi).
 
 Dins d'Isard podem crear escriptoris que són els ordinadors que farem servir.
 
