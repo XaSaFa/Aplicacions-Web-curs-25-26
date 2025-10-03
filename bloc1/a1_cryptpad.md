@@ -22,7 +22,7 @@ segueix llegint ⟶ User Account
 
 5.- Es pot canviar el nom de l’usuari un cop s’ha creat? I la contrasenya?
 
-6.- Quan mous un pad del que ets propietari a una carpeta compartida, que passa amb aquest pas.
+6.- Quan mous un pad del que ets propietari a una carpeta compartida, que passa amb aquest pad.
 
 7.- Hi ha dos tipus de backups. Explica les diferències.
 
