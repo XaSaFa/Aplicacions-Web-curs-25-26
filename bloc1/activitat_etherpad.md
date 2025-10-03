@@ -8,4 +8,3 @@ Utilitzant la teva instal·lació d'Etherpad has de fer:
   - Identifica i explica la funció de Xat.<br>
   <img width="112" height="48" alt="image" src="https://github.com/user-attachments/assets/f44da85f-7a55-4a78-9532-e17bc1d7c9ae" /><br>
 2. Imagina i descriu una aplicació útil per a aquesta aplicació en la que diferents usuaris poden col·laborar per utilitzar Etherpad.
-3. Busca un o més companys i utilitza Etherpad amb ells per a realitzar el punt anterior. 
