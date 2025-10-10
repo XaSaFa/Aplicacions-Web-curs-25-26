@@ -16,6 +16,6 @@
 1. [Activitat aplicacions organitzatives](activitat_tasques_orhanotzatives.md)
 2. [Activitat correu electrònic](activitat_mail.md)
 3. [Activitat editor de textos Etherpad](activitat_etherpad.md)
-4. [Activitat Cryptpad - provisional](a1_cryptpad.md)
+4. [Activitat Cryptpad](a1_cryptpad.md)
 
 
