@@ -79,3 +79,5 @@ Fer un mapa visual del viatge amb nodes i fletxes: transport → allotjament →
 **9. Diapositivas Markdown**
 
 Fer una presentació tècnica en format Markdown, senzilla i clara, amb punts clau del projecte: destí, pressupost i calendari.
+
+[Xuleta de MarkDown](https://comika.es/chuleta-de-mark-down/)
