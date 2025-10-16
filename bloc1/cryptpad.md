@@ -13,6 +13,8 @@ Web del projecte: [https://cryptpad.org/](https://cryptpad.org/)
 Clonem el projecte.
 
 ```
+sudo apt update
+sudo apt install git
 git clone https://gitlab.com/xtec/web/cryptpad
 ```
 
@@ -25,6 +27,7 @@ cd cryptpad
 Executem el docker.
 
 ```
+sudo snap install docker
 docker compose up -d
 ```
 
