@@ -120,4 +120,4 @@ La majoria de gestors d'arxius web incorporen funcionalitats que en part són he
 - Sincronització de tasques.
 - Gestió de projectes.
 
-**Ara es pot fer l'Activitat 1**
+**Ara es pot fer l'Activitat 2**
