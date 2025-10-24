@@ -67,7 +67,17 @@ sudo chown -R www-data:www-data /var/www/html/owncloud/
 sudo chmod -R 755 /var/www/html/owncloud/
 ```
 
-## Configurar Apache
+### Reiniciem Apache
+
+```
+sudo service apache2 restart
+```
+
+## Per accedir a Owncloud
+
+Des d'un navegador de la Màquiva Virtual escrivim: **localhost/owncloud**
+
+## OPCIONAL - Configurar Apache
 
 ```
 sudo nano /etc/apache2/sites-available/owncloud.conf
@@ -102,7 +112,3 @@ sudo a2enmod mime
 ```
 sudo service apache2 restart
 ```
-
-## Per accedir a Owncloud
-
-Des d'un navegador de la Màquiva Virtual escrivim: **localhost/owncloud**
