@@ -5,6 +5,7 @@
 
 - [Introducció - Historia dels gestors d'arxius web](introduccio.md)
 - [Característiques](caracteristiques.md)
+- [Activitat 2 - Ús de Google Drive](activitat3.md)
 - [Seguretat de contrasenyes](passwords.md)
 - [Tutorial instal·lació Owncloud](owncloud.md)
 
