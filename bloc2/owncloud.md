@@ -11,6 +11,7 @@ sudo apt install apache2
 
 ```
 sudo apt install mariadb-server
+sudo service mariadb restart
 ```
 
 ## Crear BBDD
