@@ -15,7 +15,7 @@ Cada repte superat et donarà punts d’experiència (XP) i t’acostarà al teu
 - Configuració: canvia idioma i zona horària al teu perfil. (5 XP)
 - Connexió: crea una altra màquina virtual amb la mateixa xarxa que el servidor owncloud i accedeix des d'ella al servei. (5 XP)
 
-🎯 Extra XP (+5): escriu en un fitxer de text dins ownCloud què és per a tu un “núvol privat”.
+🎯 Extra XP (+2): escriu en un fitxer de text dins ownCloud què és per a tu un “núvol privat”.
 
 # 🧑‍🤝‍🧑 Nivell 2 – Guardians dels Grups (25 XP)
 
@@ -27,7 +27,7 @@ Cada repte superat et donarà punts d’experiència (XP) i t’acostarà al teu
 - Crea dos grups nous: "exóticos" i "rústicos". (10 XP)
 - Afegeix el teu usuari estarà al grup "exóticos" i els teus companys al grup "rústicos". (5 XP)
 
-🎯 Extra XP (+5): redacta un breu text explicant per què és útil treballar amb grups i permisos.
+🎯 Extra XP (+2): redacta un breu text explicant per què és útil treballar amb grups i permisos.
 
 # 📁 Nivell 3 – Arquitectes del Núvol (30 XP)
 
@@ -35,7 +35,7 @@ Cada repte superat et donarà punts d’experiència (XP) i t’acostarà al teu
 
 **Reptes:**
 
-- Crea una carpeta principal anomenada: Projecte_GestorsWeb_[nom-grup] (5 XP)
+- Crea una carpeta principal anomenada: Projecte_GestorsWeb_[El teu cognom] (5 XP)
 - Dins, afegeix subcarpetes: (5 XP)
   - /Documents
   - /Presentació
@@ -45,4 +45,4 @@ Cada repte superat et donarà punts d’experiència (XP) i t’acostarà al teu
 - Afegeix etiquetes i comentaris a algun fitxer. (5 XP)
 - Fes servir la cerca per trobar un fitxer concret. (5 XP)
 
-🎯 Extra XP (+10): crea una regla de noms de fitxers coherent per tot el projecte (per exemple, Tema1_Recerca_Anna.pdf).
+🎯 Extra XP (+2): crea una regla de noms de fitxers coherent per tot el projecte (per exemple, Tema1_Recerca_Anna.pdf).
