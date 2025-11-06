@@ -23,9 +23,9 @@ Cada repte superat et donarà punts d’experiència (XP) i t’acostarà al teu
 
 **Reptes:**
 
-- Crea i comprova usuaris per tots els membres del teu grup (parelles o grup de 3). (10 XP)
+- Crea i comprova 4 usuaris nous. (10 XP)
 - Crea dos grups nous: "exóticos" i "rústicos". (10 XP)
-- Afegeix el teu usuari estarà al grup "exóticos" i els teus companys al grup "rústicos". (5 XP)
+- Afegeix el teu usuari al grup "exóticos" i la resta d'usuaris al grup "rústicos". (5 XP)
 
 🎯 Extra XP (+2): redacta un breu text explicant per què és útil treballar amb grups i permisos.
 
