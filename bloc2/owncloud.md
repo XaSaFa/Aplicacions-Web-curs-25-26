@@ -80,7 +80,11 @@ Des d'un navegador de la Màquiva Virtual escrivim: **localhost/owncloud**
 
 ## Accedir a aowncloud des d'un altre ordinador:
 
-Heu d'editar el fitxer /var/www/html/owncloud/config/config.php
+Heu d'editar el fitxer config.php
+
+```
+sudo gedit /var/www/html/owncloud/config/config.php
+```
 
 <img width="1165" height="662" alt="image" src="https://github.com/user-attachments/assets/0e1219f8-c235-4e31-ade4-97a490bb958d" />
 
