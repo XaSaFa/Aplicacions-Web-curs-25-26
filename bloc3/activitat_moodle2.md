@@ -10,7 +10,7 @@
 Creareu aquests mòduls del cicle de TIX.
 Dins de cada curs creareu una secció per cada bloc que tingui el mòdul.
 
-**IMPORTANT:** Els Mòduls tindran el vostre cognom inclós al nom, per exemple el mòdul 1 serà: MP01 - X - muntatge i manteniment d’equips. (On X és el vostre cognom).
+**IMPORTANT:** Els Mòduls tindran el vostre cognom inclós al nom, per exemple el mòdul 1 serà: Mòdul 1 - X - Fonaments de telecomunicacions. (On X és el vostre cognom).
 Els cursos tindran una duració del 12 de septembre de 2025 al 17 de maig de 2026.
 
 ### Mòduls formatius
