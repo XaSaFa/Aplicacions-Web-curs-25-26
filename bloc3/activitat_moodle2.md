@@ -5,6 +5,13 @@
 1. La categoria principal del vostre Moodle es diu Categoria 1 per defecte, canvieu el nom a Institut-X on X és el vostre cognom.
 2. Creeu una categoria filla de la principal que es digui ASIX (per Administració de Sistemes microinformàtics i Xarxes).
 
+## A entregar
+
+Un document pdf on m'expliqueu:
+- El canvi de la categoria principal.
+- Com afeigu la categoria ASIX.
+- Cada curs amb els temes creats (i la data del curs).
+
 ## Cursos
 
 Creareu aquests mòduls del cicle de ASIX.
