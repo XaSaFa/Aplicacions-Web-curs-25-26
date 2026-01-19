@@ -13,7 +13,7 @@
 
 🎯 Extra XP (+2): crea una subcarpeta “Compartit” dins OwnCloud i comparteix-la mitjançant enllaç públic amb contrasenya.
 
-# ⚙️ Nivell 5 – Alquimistes de l’Automatització (40 XP)
+# ⚙️ Nivell 5 – Alquimistes de l’Automatització (60 XP)
 
 **Objectiu:** configurar opcions avançades i millorar la seguretat i eficiència del teu núvol.
 
