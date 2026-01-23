@@ -4,7 +4,7 @@
 
 En aquesta activitat creareu dos cursos nous a Moodle i entregareu un document pdf on es vegi el que heu fet.
 
-## Curs 1 - Instal·lació d'Owncloud a Linux
+## Curs 1 - Instal·lació de Moodle a Linux
 
 (Aquest curs tindrà una durada de 23/01/2026 a 31/12/2026 i estarà dins de la categoria ASIX).
 
