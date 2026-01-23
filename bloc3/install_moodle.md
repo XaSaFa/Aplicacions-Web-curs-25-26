@@ -111,6 +111,10 @@ Reiniciem Apache i recarguem la web.
 
 ![image](https://github.com/user-attachments/assets/89114281-94fd-488c-9139-ae2730ed5500)
 
+## Augmentar el tamany dels fitxers que podem pujar a Moodle:
+
+<img width="1081" height="339" alt="imatge" src="https://github.com/user-attachments/assets/f5a2b210-2c16-4f1a-85b6-d42a20f7e3af" />
+
 ## Vídeo tutorial Moodle:
 
 [https://youtu.be/sKhYV19Rgw0](https://youtu.be/sKhYV19Rgw0)
