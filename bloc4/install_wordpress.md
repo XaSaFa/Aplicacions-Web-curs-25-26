@@ -39,6 +39,12 @@ FLUSH PRIVILEGES;
 
 Obrim el navegador i escrivim **localhost**
 
+Si us demana l'extensió mysqli de PHP heu d'instal"lar-la:
+
+```
+sudo apt install php-mysqli
+```
+
 <img width="1166" height="787" alt="image" src="https://github.com/user-attachments/assets/cba38ab8-0e9c-43c0-a89e-bc7c09d81280" />
 
 <img width="1028" height="791" alt="image" src="https://github.com/user-attachments/assets/cccc6658-5d90-4a70-a355-c738ea89af57" />
