@@ -18,8 +18,8 @@ tar -xzvf latest-es_ES.tar.gz
 
 ```
 sudo mkdir /var/www/html/smx
-mv ./wordpress/* /var/www/html/smx
-chown -R www-data:www-data /var/www/html/smx
+sudo mv ./wordpress/* /var/www/html/smx
+sudo chown -R www-data:www-data /var/www/html/smx
 ```
 
 ## Preparar la base de dades
