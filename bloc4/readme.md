@@ -8,6 +8,8 @@
 - [Pàgines obligatòries a una web](pagines_obligatories.md)
 
 ## Activitats
+
+- [Activitat inicial Wordpress](a_wordpress1.md) 
   
 ## Recursos
 
