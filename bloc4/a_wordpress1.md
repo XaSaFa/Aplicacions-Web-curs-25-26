@@ -24,7 +24,7 @@ No es lliurarà cap URL, ja que el web està en local. L’entrega serà un docu
 
 - Canvieu el títol del lloc pel nom de l’empresa.
 - Afegiu una descripció curta (eslògan comercial).
-- Configureu els enllaços permanents perquè siguin amigables.
+- Configureu els enllaços permanents perquè siguin (simples).
 
 **Pistes**
 - Configuració del títol i descripció:
