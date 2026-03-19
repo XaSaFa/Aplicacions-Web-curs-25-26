@@ -11,7 +11,7 @@
 ## Activitats
 
 - [Activitat inicial Wordpress](a_wordpress1.md)
-- [Activitat Woocommerce](a_woocoomerce.md)
+- [Activitat Woocommerce](a_woocommerce.md)
   
 ## Recursos
 
