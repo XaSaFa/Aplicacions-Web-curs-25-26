@@ -12,6 +12,15 @@ Un document pdf on m'expliqueu:
 - Com afeigu la categoria ASIX.
 - Cada curs amb els temes creats (i la data del curs).
 
+
+## Puntuació
+
+- Un document pdf ben organitzat i formatat 6%
+- Categoria Institut-X 10%
+- Categoria filla ASIX 10%
+- Cursos creats 64%
+- Data dels cursos ben configurada 10%
+
 ## Cursos
 
 Creareu aquests mòduls del cicle de ASIX.
