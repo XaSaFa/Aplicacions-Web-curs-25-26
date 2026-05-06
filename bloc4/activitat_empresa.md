@@ -1,5 +1,7 @@
 # Activitat empresa
 
+Mostrareu a classe una MV amb una web que segueixi aquestes directrius:
+
 1. Pàgina feta amb Wordpress
 2. Pàgina web d'una empresa real amb seu propera.
 3. Pàgina d'inici amb explicqació de l'empresa i alguna imatge.
