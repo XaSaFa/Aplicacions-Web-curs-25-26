@@ -12,6 +12,7 @@
 
 - [Activitat inicial Wordpress](a_wordpress1.md)
 - [Activitat Woocommerce](a_woocoomerce.md)
+- [Activitat empresa real](activitat_empresa.md)
   
 ## Recursos
 
